@@ -20,4 +20,4 @@ Com ela, você consegue criar chats, notificações e sistemas que precisam de c
 Se você estiver usando **Node.js**, basta instalar via npm:
 
 ```bash
-npm install miniwebsocket
+npm install @arthurdevfrontend/miniwebsocket
